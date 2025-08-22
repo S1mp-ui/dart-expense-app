@@ -1,5 +1,10 @@
-import 'package:pro/pro.dart' as pro;
+void showAll() {}
 
-void main(List<String> arguments) {
-  print('Hello world: ${pro.calculate()}!');
+
+void totalPaid() {}
+
+void main() {
+  showAll();
+
+  totalPaid();
 }
