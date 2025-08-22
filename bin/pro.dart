@@ -1,7 +1,11 @@
-void showAll() {}
+void showAll() {
+  print('ppppp');
+  print('aaaaa');
+}
 
-
-void totalPaid() {}
+void totalPaid() {
+  print('fffff');
+}
 
 void main() {
   showAll();
